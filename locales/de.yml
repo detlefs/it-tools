@@ -165,229 +165,228 @@ tools:
     description: Ein ETA-Rechner (Estimated Time of Arrival, Geschätzte Ankunftszeit), um die ungefähre Beendigungszeit einer Aufgabe zu kennen, zum Beispiel den Moment eines Download-Endes.
 
   roman-numeral-converter:
-    title: //////Römische Zahlenwandler
-    description: Konvertieren römischer Ziffern in Zahlen und Konvertieren von Zahlen in römische Ziffern.
+    title: Römische Zahlen-Konvertierer
+    description: Konvertieren römischer Zahlen in Ziffern und Konvertieren von Ziffern in römische Zahlen.
 
   hmac-generator:
-    title: Hmac Generator
-    description: Berechnet einen Hash-basierten Nachrichtenauthentifizierungscode (HMAC) mit einem geheimen Schlüssel und Ihrer Lieblings-Hashing-Funktion.
+    title: Hmac-Generator
+    description: Berechnet einen Hash-basierten Nachrichten-Authentifizierungscode (HMAC) mit einem geheimen Schlüssel und Ihrer Lieblings-Hashing-Funktion.
 
   bip39-generator:
     title: BIP39 Passphrase Generator
-    description: Generieren Sie BIP39-Passphrase aus bestehender oder zufälliger mnemonisch oder erhalten Sie die mnemonic aus der Passphrase.
+    description: Generiere BIP39-Passphrasen aus bestehendem oder zufälligem Mnemonic oder erhalte die Mnemonic aus der Passphrase.
 
   base64-file-converter:
-    title: Base64 Dateiwandler
-    description: Konvertieren Sie String, Dateien oder Bilder in eine base64-Darstellung[5c].
+    title: Base64-Dateikonvertierer
+    description: Konvertiere Strings, Dateien oder Bilder in das Base64-Format.
 
   list-converter:
-    title: Listenwandler
-    description: Dieses Tool kann spaltenbasierte Daten verarbeiten und verschiedene Änderungen (Transpose, Add Prefix und suffix, Reverse List, Sortierliste, Kleinbuchstabenwerte, Knatewerte) zu jeder Zeile anwenden.
+    title: Listen-Konvertierer
+    description: Dieses Tool kann spaltenbasierte Daten verarbeiten und verschiedene Änderungen (Transpnierungen, Prefix und Suffix hinzufügen, Liste umkehren, Sortierte Liste, Werte in Kleinbuchstaben, Werte abschneiden) auf jede Zeile anwenden.
 
   base64-string-converter:
-    title: Base64 String Encoder/Decoder
-    description: Einfach kodieren und dekodieren Sie Strings in eine base64-Darstellung.
+    title: Base64-String En-/Dekodierer
+    description: Einfaches kodieren und dekodieren von Strings in eine Base64-Darstellung.
 
   toml-to-yaml:
     title: TOML zu YAML
-    description: Ver Parse und Konvertiere TOML in YAML.
+    description: Konvertieren von TOML zu YAML.
 
   math-evaluator:
-    title: Mathe- Gutachter
-    description: Ein Rechner zur Auswertung mathematischer Ausdrücke. Sie können Funktionen wie sqrt, cos, sin, abs, etc.
+    title: Mathe-Gutachter
+    description: Ein Rechner zur Auswertung mathematischer Ausdrücke. Du kannst Funktionen wie Sqrt, Cos, Sin, Abs, etc. nutzen.
 
   json-to-yaml-converter:
-    title: JSON zu YAML-Wandler
-    description: Mit diesem Live-Online-Konverter einfach JSON in YAML umwandeln.
+    title: JSON zu YAML
+    description: JSON zu YAML umwandeln.
 
   url-parser:
-    title: Url Parser
-    description: Parsen Sie einen URL-String, um alle verschiedenen Teile (Protokoll, Herkunft, Params, Port, Benutzername-Passwort, ...)
+    title: Url-Parser
+    description: Parse einen URL-String, um alle verschiedenen Teile (Protokoll, Herkunft, Parameter, Port, Benutzername & Passwort, usw.) auszuwerten.
 
   iban-validator-and-parser:
-    title: IBAN Validator und Parser
-    description: IBAN-Nummern validieren und analysieren. Überprüfen Sie, ob IBAN gültig ist und erhalten Sie das Land, BBAN, wenn es sich um ein QR-IBAN und das IBAN-freundliche Format handelt.
+    title: IBAN Prüfer und Parser
+    description: IBAN-Nummern prüfen und analysieren. Überprüfe, ob eine IBAN gültig ist und extrahiere das Land, BBAN, ob es sich um ein QR-IBAN ahndelt, und das lesbare IBAN-Format.
 
   user-agent-parser:
-    title: User-Agent Parser
-    description: Erkennen und analysieren Sie Browser, Engine, OS, CPU und Device Typ/Modell von einem User-Agent-String.
+    title: User-Agent-Parser
+    description: Erkenne und analysiere Browser, Engine, OS, CPU und Device Typ/Modell von einem User-Agent-String.
 
   numeronym-generator:
     title: Numeronym Generator
-    description: Ein Rechnen ist ein Wort, bei dem eine Zahl verwendet wird, um eine Abkürzung zu bilden. Zum Beispiel ist "i18n" ein Renonym der "Internationalisierung", bei dem 18 für die Anzahl der Buchstaben zwischen dem ersten i und dem letzten n im Wort steht.
+    description: Ein Numeronym ist ein Wort, bei dem eine Zahl verwendet wird, um eine Abkürzung zu bilden. Zum Beispiel ist "i18n" ein Numeronym der "Internationalization", bei dem 18 für die Anzahl der Buchstaben zwischen dem ersten I und dem letzten N im Wort steht.
 
   case-converter:
-    title: Gehäusewandler
-    description: Ändern des Falles einer Zeichenkette und wählen Sie zwischen verschiedenen Formaten
+    title: Großschreibungskonvertierer
+    description: Ändern der Groß-/Klein-Gemischten Schreibweise einer Zeichenkette.
 
   html-entities:
-    title: Escape html Entitäten
-    description: Escape or unescape html Entities (ersetzen <,>, &, " und \' zu ihrer HTML-Version)
+    title: HTML-Entitäten escapen
+    description: HTML-Entitäten escapen oder unescapen (Ersetzen von <,>, &, " und \' zu ihrer HTML-Entität)
 
   json-prettify:
     title: JSON prettify und Format
-    description: verschönern Sie Ihre JSON-Saite an ein menschenfreundliches lesbares Format.
+    description: Verschönern von JSON-Strings in ein besser lesbares Format.
 
   docker-run-to-docker-compose-converter:
-    title: Docker läuft zu Docker komponieren Konverter
+    title: Docker Run zu Docker-Composer Konverter
     description: Verwandelt docker run Befehle in docker-compose Dateien!
 
   mac-address-lookup:
-    title: MAC Adresse suchen
-    description: Finden Sie den Anbieter und Hersteller eines Geräts an seiner MAC-Adresse.
+    title: MAC-Adresse suchen
+    description: Finde den Anbieter und Hersteller eines Geräts anhand einer MAC-Adresse.
 
   mime-types:
-    title: Mime
-    description: Mikrotype in Erweiterungen umwandeln und umgekehrt.
+    title: Mime-Typen
+    description: Mime-Typen in Erweiterungen umwandeln und umgekehrt.
 
   toml-to-json:
     title: TOML zu JSON
-    description: Parsen und konvertieren Sie TOML in JSON.
+    description: Parsen und konvertieren von TOML zu JSON.
 
   lorem-ipsum-generator:
-    title: Lorem ipsum Generator
-    description: Lorem ipsum ist ein Platzhaltertext, der häufig verwendet wird, um die visuelle Form eines Dokuments oder einer Schrift zu demonstrieren, ohne sich auf aussagenende Inhalte zu verzellen
+    title: Lorem ipsum-Generator
+    description: Lorem ipsum ist ein Platzhaltertext, der häufig verwendet wird, um die visuelle Form eines Dokuments oder einer Schrift zu demonstrieren, ohne aussagenende Inhalte zu verwenden.
 
   qrcode-generator:
-    title: QR Code Generator
-    description: Erstellen und laden Sie QR-Code für eine URL oder nur einen Text herunter und passen Sie Hintergrund- und Vordergrundfarben an.
+    title: QR Code-Generator
+    description: Erstellen und Laden von QR-Code für eine URL oder nur einen Text. Hintergrund- und Vordergrundfarben sind anpassbar.
 
   wifi-qrcode-generator:
-    title: WiFi QR Code Generator
-    description: Generieren und Herunterladen von QR-Codes für schnelle Verbindungen zu WLAN-Netzwerken.
+    title: WiFi QR Code-Generator
+    description: Erstellen und Laden von QR-Codes für die Schnellverbindungen zu WLAN-Netzwerken.
 
   xml-formatter:
     title: XML Formatter
-    description: Präsensen Sie Ihren XML-String an ein menschenfreundliches lesbares Format an.
+    description: Verschönern von XML-String in ein besser lesbares Format.
 
   temperature-converter:
-    title: Temperaturwandler
+    title: Temperaturkonvertierer
     description: Temperaturumrechnungen für Kelvin, Celsius, Fahrenheit, Rankine, Delisle, Newton, Réaumur und Rømer.
 
   chmod-calculator:
-    title: Chmod Rechner
-    description: Berechnen Sie Ihre Berechtigungen und Befehle mit diesem Online-Chmod-Rechner.
+    title: Chmod-Rechner
+    description: Berechne die Berechtigungen und Befehle mit diesem Online-Chmod-Rechner.
 
   rsa-key-pair-generator:
     title: RSA Schlüsselpaargenerator
     description: Generieren neuer zufälliger RSA-Privat- und Public-Key-Pem-Zertifikate.
 
   html-wysiwyg-editor:
-    title: HTML WYSIWYG Editor
-    description: Online-HTML-Editor mit funktionsreichem WYSIWYG-Editor, erhalten Sie sofort den Quellcode des Inhalts.
+    title: HTML WYSIWYG-Editor
+    description: Online HTML-Editor mit funktionsreichem WYSIWYG-Editor. Erhalte sofort den Quellcode des Inhalts.
 
   yaml-to-toml:
     title: YAML zu TOML
-    description: Parse und Konvertiere YAML in TOML.
+    description: Parse und Konvertiere YAML zu TOML.
 
   mac-address-generator:
     title: MAC Adressgenerator
-    description: Geben Sie die Menge und das Präfix ein. MAC-Adressen werden in Ihrem gewählten Fall generiert (Koffer oder Kleinbuchstaben)
+    description: Gib die Menge und das Präfix ein. MAC-Adressen werden im gewählten Format generiert (Groß- oder Kleinbuchstaben)
 
   json-diff:
-    title: JSON
-    description: Vergleichen Sie zwei JSON-Objekte und erhalten Sie die Unterschiede.
+    title: JSON-Diff
+    description: Vergleiche zwei JSON-Objekte und erhalte die Unterschiede.
 
   jwt-parser:
-    title: JWT Parser
-    description: Parsen und dekodieren Sie Ihr JSON Web Token (jwt) und zeigen Sie seinen Inhalt an.
+    title: JWT-Parser und dekodiere ein JSON-Web-Token (jwt) und zeige seinen Inhalt an.
 
   date-converter:
     title: Datumsrechner
-    description: Datum und Uhrzeit in verschiedene Formate umrechnen
+    description: Datum und Uhrzeit in verschiedene Formate umrechnen.
 
   phone-parser-and-formatter:
-    title: Telefonparser und Formatter
-    description: Telefonnummern analysieren, validieren und formatieren. Informieren Sie sich über die Telefonnummer, wie die Ländercode, Typ usw.
+    title: Telefonparser und Formatierer
+    description: Telefonnummern analysieren, validieren und formatieren. Informiere dich über die Telefonnummer, wie Ländercode, Typ, usw.
 
   ipv4-subnet-calculator:
     title: IPv4 Subnetzrechner
-    description: Parsen Sie Ihre IPv4-CIDR-Blöcke und erhalten Sie alle Informationen, die Sie über Ihr Subnetz benötigen.
+    description: Parse IPv4-CIDR-Blöcke und erhalte alle Informationen, die Du über das Subnetz benötigst.
 
   og-meta-generator:
-    title: Geöffneter Metagenerator
-    description: Generieren Sie offene und Socials HTML Meta-Tags für Ihre Website.
+    title: Open Graph-Metagenerator
+    description: Generiere Open-Graph und Socials HTML Meta-Tags für deine Website.
 
   ipv6-ula-generator:
-    title: IPv6 ULA Generator
-    description: Generieren Sie Ihre eigenen lokalen, nicht-routable IP-Adressen in Ihrem Netzwerk nach RFC4193.
+    title: IPv6 ULA_Generator
+    description: Generiere deinen eigenen lokalen, nicht-routbaren IP-Adressen in deinem lokalen Netzwerk nach RFC4193.
 
   hash-text:
-    title: Hashtext
-    description: 'Hashen Sie eine Textzeichenfolge mit der Funktion, die Sie benötigen: MD5, SHA2, SHA256, SHA224, SHA512, SHA3 oder RIPEMD160'
+    title: Hash-Text
+    description: 'Hashe eine Textzeichenfolge mit der Funktion, die Du benötigst: MD5, SHA2, SHA256, SHA224, SHA512, SHA3 oder RIPEMD160'
 
   json-to-toml:
     title: JSON zu TOML
-    description: Parsen und Konvertieren Sie JSON in TOML.
+    description: Parsen und Konvertieren von JSON zu TOML.
 
   device-information:
     title: Geräteinformation
-    description: Informieren Sie sich über Ihr aktuelles Gerät (Bildschirmgröße, Pixelverhältnis, User Agent, ...)
+    description: Informiere dich über Dein aktuelles Gerät (Bildschirmgröße, Pixelverhältnis, User Agent, ...)
 
   pdf-signature-checker:
-    title: PDF Signatur Checker
-    description: Überprüfen Sie die Signaturen einer PDF-Datei. Eine signierte PDF-Datei enthält eine oder mehrere Signaturen, mit denen festgestellt werden kann, ob der Inhalt der Datei seit der Unterzeichnung der Datei geändert wurde.
+    title: PDF Signatur-Prüfer
+    description: Überprüfe die Signaturen einer PDF-Datei. Eine signierte PDF-Datei enthält eine oder mehrere Signaturen, mit denen festgestellt werden kann, ob der Inhalt der Datei seit der Unterzeichnung der Datei geändert wurde.
 
   json-minify:
     title: JSON minify
-    description: Minimieren und komprimieren Sie Ihren JSON, indem Sie unnötige Leerzeichen entfernen.
+    description: Minimiere und komprimiere JSON, indem unnötige Leerzeichen entfernt werden.
 
   ulid-generator:
-    title: ULID Generator
-    description: Generieren Sie zufällige universell einzigartige Lexicographisch sortierbare Identifier (ULID).
+    title: ULID-Generator
+    description: Generiere zufällige universell einzigartige lexicographisch sortierbare Identifier (ULID).
 
   string-obfuscator:
-    title: String-Schleier
-    description: Verschleieren Sie einen String (wie ein Geheimnis, eine IBAN oder ein Token), um ihn teilbar und identifizierbar zu machen, ohne seinen Inhalt preiszugeben.
+    title: String-Verschleierer
+    description: Verschleiere einen String (wie ein Geheimnis, eine IBAN oder ein Token), um ihn teilbar und identifizierbar zu machen, ohne seinen Inhalt preiszugeben.
 
   base-converter:
-    title: Integer Basiswandler
-    description: Konvertieren Sie die Anzahl zwischen verschiedenen Basen (dezimal, hexadezimal, binär, oktal, base64, ...)
+    title: Integerbasis-Konvertierer
+    description: Konvertier eine Zahl zwischen verschiedenen Basen (Dezimal, Hexadezimal, Binär, Oktal, Base64, ...)
 
   yaml-to-json-converter:
-    title: YAML zu JSON Konverter
-    description: Mit diesem Live-Online-Konverter einfach YAML in JSON konvertieren.
+    title: YAML zu JSON
+    description: Einfach YAML zu JSON konvertieren.
 
   uuid-generator:
-    title: UUID Generator
-    description: Ein Universally Unique Identifier (UUID) ist eine 128-Bit-Nummer, die zur Identifizierung von Informationen in Computersystemen verwendet wird. Die Anzahl der möglichen UUIDs ist 16^32, das ist 2[^128 oder etwa 3,4x10^38 (was eine Menge ist!).
+    title: UUID-Generator
+    description: Ein universell eindeutigen Identifier (UUID) ist eine 128-Bit-Nummer, die zur Identifizierung von Informationen in Computersystemen verwendet wird. Die Anzahl der möglichen UUIDs ist 16^32, das ist 2^128 oder etwa 3,4x10^38 (also eine Menge!).
 
   ipv4-address-converter:
-    title: Ipv4 Adresswandler
-    description: Konvertieren Sie eine ip-Adresse in Dezimal-, Binär-, Hexadezimal- oder Ereignis in ipv6
+    title: Ipv4-Adresskonvertierer
+    description: Konvertiere eine IP-Adresse in Dezimal-, Binär-, Hexadezimal- oder Ereignis in IPv6
 
   text-statistics:
     title: Textstatistik
-    description: Erhalten Sie Informationen über einen Text, die Anzahl der Zeichen, die Anzahl der Wörter, die Größe [5c], ...
+    description: Erhalte Informationen über einen Text, wie die Anzahl der Zeichen, die Anzahl der Wörter, die Größe, ...
 
   text-to-nato-alphabet:
     title: Text zum NATO-Alphabet
-    description: Verwandeln Sie Text in NATO-Telefonalphabet zur mündlichen Übertragung.
+    description: Konvertiert Text in das phonetische NATO-Alphabet zur mündlichen Übertragung.
 
   basic-auth-generator:
     title: Basis-Auth-Generator
-    description: Erzeugen Sie einen base64 basic auth Header aus einem Benutzernamen und einem Passwort.
+    description: Erzeuge einen Base64 Basis-Auth-Header aus einem Benutzernamen und einem Passwort.
 
   text-to-unicode:
     title: Text zu Unicode
-    description: Text in Unicode parieren und konvertieren und umgekehrt
+    description: Text in Unicode und umgekehrt konvertieren.
 
   ipv4-range-expander:
-    title: IPv4-Bereich Expanser
-    description: Mit einer Start- und End IPv4-Adresse berechnet dieses Tool ein gültiges IPv4-Netzwerk mit seiner CIDR-Benotation.
+    title: IPv4-Bereich-Erweiterer
+    description: Mit einer Start- und End-IPv4-Adresse berechnet dieses Tool ein gültiges IPv4-Netzwerk mit seiner CIDR-Notation.
 
   text-diff:
-    title: Text
-    description: Vergleichen Sie zwei Texte und sehen Sie die Unterschiede.
+    title: Textvergleich
+    description: Vergleicht zwei Texte und zeigt die Unterschiede.
 
   otp-generator:
-    title: OTP Code Generator
-    description: Generieren und validieren zeitbasiertes OTP (ein Zeitpasswort) für die Multifaktor-Authentifizierung.
+    title: OTP Code-Generator
+    description: Generiere und validiere zeitbasiertes OTP (ein Zeitpasswort) für die Multifaktor-Authentifizierung.
 
   url-encoder:
-    title: formatierte url formatierte Strings kodieren/dekodieren
-    description: Um es zu url-kodieren (auch als "percent-encodiert" bekannt) zu kodieren oder daraus zu dekodieren.
+    title: Url-Strings kodieren/dekodieren
+    description: Kodiere Url-Strings in ein URL-kodiertes Format (auch bekannt als „Prozentkodiert“) oder umgekehrt.
 
   text-to-binary:
     title: Text zu ASCII binär
-    description: Konvertieren Sie Text in seine ASCII-Binärdarstellung und umgekehrt.
+    description: Text in seine ASCII-Binärdarstellung konvertieren und umgekehrt.
